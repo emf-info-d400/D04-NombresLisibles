@@ -1,7 +1,7 @@
 # Devoir 01 : Bande d'alcoolos !
 ## CONSIGNE :
 Lisez `avec attention` et faites les points suivants avec précision et dans cet ordre :
-- Créez une classe Ami qui va être utilisée pour représenter certains de vos amis.
+- Créez une classe Ami qui va être utilisée pour représenter certains de vos amis. Créez cette classe dans le bon package.
 - Faites en sorte qu'un ami ait un nom ainsi qu'un nombre de bières qu'il est encore en mesure de supporter avant d'être saoul.
 - On doit pouvoir demander à un ami quel est son nom mais celui-ci ne doit plus pouvoir être changé.
 - À l'aide de la méthode boitUneBiere() un ami boira une bière, ce qui diminuera d'autant le nombre de bières qu'il pourra encore boire. Par "boira une bière" ce qui est attendu c'est que la méthode affiche qu'il en a bu une.
