@@ -13,8 +13,7 @@ public class MesFormateurs {
          * @return une chaîne de caractèresformatée formatée comme précité
          */
         public static String formaterNbreEntierA(int valeur) {
-                DecimalFormat df = new DecimalFormat("00000");
-                return df.format(valeur);
+                return "";
         }
 
         /**
@@ -27,8 +26,7 @@ public class MesFormateurs {
          * @return une chaîne de caractèresformatée formatée comme précité
          */
         public static String formaterNbreEntierB(int valeur) {
-                DecimalFormat df = new DecimalFormat("#,###");
-                return df.format(valeur);
+                return "";
         }
 
         /**
@@ -41,7 +39,6 @@ public class MesFormateurs {
          * @return une chaîne de caractèresformatée formatée comme précité
          */
         public static String formaterNbreReel(double valeur) {
-                DecimalFormat df = new DecimalFormat("#,###.000");
-                return df.format(valeur);
+                return "";
         }
 }
