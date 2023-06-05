@@ -1,6 +1,6 @@
 # Devoir 04 : Nombres lisibles
 ## CONSIGNE :
-En utilisant la classe `DecimalFormat` vu en classe, produisez le code nécessaire dans la classe `MesFormateurs` afin que l'affichage de ces nombres donne exactement ceci sur la console :
+En utilisant la classe `DecimalFormat` vue en classe, produisez le code nécessaire dans la classe `MesFormateurs` afin que l'affichage de ces nombres donne exactement ceci sur la console :
 ```
 ------------------------
 00001
@@ -16,7 +16,6 @@ En utilisant la classe `DecimalFormat` vu en classe, produisez le code nécessai
 12'345'678
 ------------------------
 PI = 3.142
-C = 299'792'458.000 [m/s]
 C = 299'792'458.000 [m/s]
 ```
 
