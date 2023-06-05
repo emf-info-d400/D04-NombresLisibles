@@ -44,5 +44,4 @@ public class MesFormateurs {
                 DecimalFormat df = new DecimalFormat("#,###.000");
                 return df.format(valeur);
         }
-
 }

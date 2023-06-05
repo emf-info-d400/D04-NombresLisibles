@@ -20,4 +20,3 @@ C = 299'792'458.000 [m/s]
 
 ## RESTITUTION :
 1. Rendre ce devoir normalement par `push` GitHub
-

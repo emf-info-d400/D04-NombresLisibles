@@ -28,5 +28,6 @@ public class Application {
                 System.out.println("------------------------");
                 System.out.println("PI = " + MesFormateurs.formaterNbreReel(Math.PI));
                 System.out.println("C = " + MesFormateurs.formaterNbreReel(299792458.0) + " [m/s]");
+                
         }
 }
