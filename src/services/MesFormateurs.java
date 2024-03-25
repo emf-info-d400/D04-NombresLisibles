@@ -10,7 +10,7 @@ public class MesFormateurs {
          * zéros.
          * 
          * @param valeur la valeur devant être formatée de la manière décrite
-         * @return une chaîne de caractèresformatée formatée comme précité
+         * @return une chaîne de caractères formatée comme précité
          */
         public static String formaterNbreEntierA(int valeur) {
                 return "";
@@ -23,7 +23,7 @@ public class MesFormateurs {
          * 
          * @param valeur la valeur devant être formatée de manière lisible et
          *               compréhensible
-         * @return une chaîne de caractèresformatée formatée comme précité
+         * @return une chaîne de caractères formatée comme précité
          */
         public static String formaterNbreEntierB(int valeur) {
                 return "";
@@ -36,7 +36,7 @@ public class MesFormateurs {
          * 
          * @param valeur la valeur devant être formatée de manière lisible et
          *               compréhensible
-         * @return une chaîne de caractèresformatée formatée comme précité
+         * @return une chaîne de caractères formatée comme précité
          */
         public static String formaterNbreReel(double valeur) {
                 return "";
